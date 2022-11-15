@@ -23,7 +23,7 @@ What do you need to do?
   3. Run gaussian.py (there is no need to change anything)
   4. Enjoy results in the output file ;)
 
-  Optional  
-    1. You can add your csv data in input file and change the path
-    2. Run the code have your own results 
-    3. Play with std (standard deviation) to change the quantity/quality of noise
+Optional  
+  1. You can add your csv data in input file and change the path
+  2. Run the code have your own results 
+  3. Play with std (standard deviation) to change the quantity/quality of noise
